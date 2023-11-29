@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406831326249",
+    "project_id": "banktest-330c4",
+    "storage_bucket": "banktest-330c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406831326249:android:02986a1d55e816c3b3a838",
+        "android_client_info": {
+          "package_name": "com.example.bank_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ygmrX4FZ2wrrtuKdHq2or6b2WRt_tDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
