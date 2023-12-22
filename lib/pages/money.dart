@@ -54,7 +54,6 @@ class _MoneyPageState extends State<MoneyPage>{
                                 
       body: SingleChildScrollView(
       child: Container(
-        // moneyivC (7:32)
         width: double.infinity,
         decoration:const BoxDecoration (
           color: Color(0xff234d8e),
@@ -64,7 +63,6 @@ class _MoneyPageState extends State<MoneyPage>{
           children: [
            // const SizedBox(height: 20),
             Container(
-              // line1NdN (7:34)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 11*fem),
               width: double.infinity,
               height: 1*fem,
@@ -73,7 +71,6 @@ class _MoneyPageState extends State<MoneyPage>{
               ),
             ),
             Center(
-              // moneystatusK2p (13:12)
               child: Container(
                 margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 11*fem),
                 child: Text(
@@ -89,7 +86,6 @@ class _MoneyPageState extends State<MoneyPage>{
               ),
             ),
             Container(
-              // autogroupscfidJQ (DT2kngeWhsFDz8sGXJScFi)
               margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 50*fem),
               width: double.infinity,
               height: 66*fem,
@@ -100,14 +96,12 @@ class _MoneyPageState extends State<MoneyPage>{
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // autogroupassyYgG (DT2m1gGryTDiYYLAYBasSY)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 65*fem, 0*fem),
                     width: 180*fem,
                     height: double.infinity,
                     child: Stack(
                       children: [
                         Positioned(
-                          // rectangle65RJ (7:36)
                           left: 92*fem,
                           top: 0*fem,
                           child: Align(
@@ -124,7 +118,6 @@ class _MoneyPageState extends State<MoneyPage>{
                           ),
                         ),
                         Positioned(
-                          // rectangle5bPe (7:33)
                           left: 2*fem,
                           top: 2*fem,
                           child: Align(
@@ -141,7 +134,6 @@ class _MoneyPageState extends State<MoneyPage>{
                           ),
                         ),
                         Positioned(
-                          // moneycashiconpng1K4k (7:40)
                           left: 49*fem,
                           top: 8*fem,
                           child: Align(
@@ -159,7 +151,6 @@ class _MoneyPageState extends State<MoneyPage>{
                     ),
                   ),
                   SizedBox(
-                    // autogroupn1oeDvp (DT2m6vd7rMyivYtDhTn1oe)
                     width: 115*fem,
                     //height: double.infinity,
                     child: Stack(
@@ -185,7 +176,6 @@ class _MoneyPageState extends State<MoneyPage>{
                           left: 10*fem,
                           top: 0*fem,
                         child:GestureDetector(
-                          // helmet1Ubr (7:43)
                           onTap: () {
                               Navigator.push(context, MaterialPageRoute(builder: (context) => HelmetPage()));
                             },
@@ -212,7 +202,6 @@ class _MoneyPageState extends State<MoneyPage>{
               ),
             ),
             Container(
-              // noteszKJ (7:86)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 175*fem, 0*fem),
               child: Text(
                 '5000 Notes',
@@ -226,14 +215,12 @@ class _MoneyPageState extends State<MoneyPage>{
               ),
             ),
             Container(
-              // autogroupurbz6dE (DT2mhKoU3t4ey4HTyBUrBz)
               padding: EdgeInsets.fromLTRB(38*fem, 15*fem, 39*fem, 74*fem),
               width: double.infinity,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Container(
-                    // autogroupqvvcRQc (DT2mEqZboxRaHmgiQ9qvvc)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 61*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -241,7 +228,6 @@ class _MoneyPageState extends State<MoneyPage>{
                       borderRadius: BorderRadius.circular(15*fem),
                     ),
                     child: Align(
-                      // rectangle14Yk8 (7:81)
                       alignment: Alignment.centerLeft,
                       child: SizedBox(
                         width: 47*fem,
@@ -256,7 +242,6 @@ class _MoneyPageState extends State<MoneyPage>{
                     ),
                   ),
                   Container(
-                    // notes5EG (7:89)
                     margin: EdgeInsets.fromLTRB(7*fem, 0*fem, 0*fem, 12*fem),
                     child: Text(
                       '1000 Notes',
@@ -270,7 +255,6 @@ class _MoneyPageState extends State<MoneyPage>{
                     ),
                   ),
                   Container(
-                    // autogrouppubsoRA (DT2mLau2PcsgEFuj6hPUBS)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 61*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -278,7 +262,6 @@ class _MoneyPageState extends State<MoneyPage>{
                       borderRadius: BorderRadius.circular(15*fem),
                     ),
                     child: Align(
-                      // rectangle17jpc (7:84)
                       alignment: Alignment.centerLeft,
                       child: SizedBox(
                         width: 153*fem,
@@ -307,7 +290,6 @@ class _MoneyPageState extends State<MoneyPage>{
                     ),
                   ),
                   Container(
-                    // autogrouptpfjaKS (DT2mRfathcQKRSa8QtTpFJ)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 61*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -315,7 +297,6 @@ class _MoneyPageState extends State<MoneyPage>{
                       borderRadius: BorderRadius.circular(15*fem),
                     ),
                     child: Align(
-                      // rectangle16KH2 (7:83)
                       alignment: Alignment.centerLeft,
                       child: SizedBox(
                         width: 253*fem,
@@ -330,7 +311,6 @@ class _MoneyPageState extends State<MoneyPage>{
                     ),
                   ),
                   Container(
-                    // notes3ip (7:87)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 12*fem),
                     child: Text(
                       '100 Notes',
@@ -344,14 +324,12 @@ class _MoneyPageState extends State<MoneyPage>{
                     ),
                   ),
                   Container(
-                    // autogroupzkekMjW (DT2mXVkWZjU6xLjy2yZkek)
                     width: double.infinity,
                     decoration: BoxDecoration (
                       color:const Color(0xffd9d9d9),
                       borderRadius: BorderRadius.circular(15*fem),
                     ),
                     child: Align(
-                      // rectangle15WcQ (7:82)
                       alignment: Alignment.centerLeft,
                       child: SizedBox(
                         width: 92*fem,

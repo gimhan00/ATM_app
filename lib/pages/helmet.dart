@@ -56,7 +56,6 @@ class HelmetPage extends StatefulWidget {
       body: SingleChildScrollView(
       //width: double.infinity,
       child: Container(
-        // helmet5gk (7:66)
         width: double.infinity,
         decoration: const BoxDecoration (
           color: Color(0xff234d8e),
@@ -64,7 +63,6 @@ class HelmetPage extends StatefulWidget {
             child: Column(
               children:[
             Center(
-              // moneystatusK2p (13:12)
               child: Container(
                 margin: EdgeInsets.fromLTRB(0*fem, 5*fem, 0*fem, 11*fem),
                 child: Text(
@@ -81,7 +79,6 @@ class HelmetPage extends StatefulWidget {
             ),
               
             Container(
-              // autogroup8ysxxGg (DT2nnnyiHYrq5eb5Ro8ySx)
               padding: EdgeInsets.fromLTRB(55*fem, 0*fem, 0*fem, 0*fem),
               width: double.infinity,
               height: 66*fem,
@@ -92,7 +89,6 @@ class HelmetPage extends StatefulWidget {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // moneycashiconpng1TDS (101:2)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 56*fem, 0*fem),
                     child: GestureDetector(
                       onTap: () {
@@ -110,7 +106,6 @@ class HelmetPage extends StatefulWidget {
                     ),
                   ),
                   Container(
-                    // autogroupcu5iw8c (DT2nuscFQZ9rWjwJu3cu5i)
                     padding: EdgeInsets.fromLTRB(50*fem, 4*fem, 50*fem, 8*fem),
                     //height: double.infinity,
                     width: 170*fem,
@@ -120,7 +115,6 @@ class HelmetPage extends StatefulWidget {
                       borderRadius: BorderRadius.circular(28*fem),
                     ),
                     child: Align(
-                      // helmet1rWU (7:76)
                       alignment: Alignment.center,
                       child: SizedBox(
                         width: 80*fem,
@@ -135,14 +129,12 @@ class HelmetPage extends StatefulWidget {
               ),
             ),
             Container(
-              // autogroup2zojPWQ (DT2p3qiL9zQWRibi3z2zoJ)
               padding: EdgeInsets.fromLTRB(11*fem, 31*fem, 12*fem, 247*fem),
               width: double.infinity,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // autogroup3e3jiYg (DT2o1THHRJNbGQGfkW3e3J)
                     padding: EdgeInsets.fromLTRB(11*fem, 17*fem, 11*fem, 11.5*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -153,7 +145,6 @@ class HelmetPage extends StatefulWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // unauthorizedweardetecteddQk (7:99)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 44*fem, 17.5*fem),
                           child: Text(
                             'Unauthorized wear detected',
@@ -167,7 +158,6 @@ class HelmetPage extends StatefulWidget {
                           ),
                         ),
                         Container(
-                          // autogroupnkc8eak (DT2o9ciMEGfVQrueDpnkc8)
                           margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 15*fem, 0*fem),
                           width: double.infinity,
                           height: 39*fem,
@@ -175,7 +165,6 @@ class HelmetPage extends StatefulWidget {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // date20xxxxxxtime20xxxxxxyN8 (7:100)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 75*fem, 0*fem),
                                 constraints: BoxConstraints (
                                   maxWidth: 131*fem,
@@ -192,7 +181,6 @@ class HelmetPage extends StatefulWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupii3a4eU (DT2oDnG5RDRd5WAxP2ii3A)
                                 margin: EdgeInsets.fromLTRB(0*fem, 2.5*fem, 0*fem, 2.5*fem),
                                 width: 89*fem,
                                 height: double.infinity,
@@ -226,7 +214,6 @@ class HelmetPage extends StatefulWidget {
                     height: 13*fem,
                   ),
                   Container(
-                    // autogroupw1nxJHv (DT2oNcLhVrdyyGNYEhw1nx)
                     padding: EdgeInsets.fromLTRB(11*fem, 17*fem, 11*fem, 11.5*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -237,7 +224,6 @@ class HelmetPage extends StatefulWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // unauthorizedweardetectedcpQ (7:110)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 44*fem, 17.5*fem),
                           child: Text(
                             'Unauthorized wear detected',
@@ -251,7 +237,6 @@ class HelmetPage extends StatefulWidget {
                           ),
                         ),
                         Container(
-                          // autogroupjjyrju2 (DT2oVSUemV5xd7tHwKjjyr)
                           margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 15*fem, 0*fem),
                           width: double.infinity,
                           height: 39*fem,
@@ -259,7 +244,6 @@ class HelmetPage extends StatefulWidget {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // date20xxxxxxtime20xxxxxxgJU (7:111)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 75*fem, 0*fem),
                                 constraints: BoxConstraints (
                                   maxWidth: 131*fem,
@@ -276,7 +260,6 @@ class HelmetPage extends StatefulWidget {
                                 ),
                               ),
                               Container(
-                                // autogroupshfnAzL (DT2oZBsQY8mgKhRUUoshfn)
                                 margin: EdgeInsets.fromLTRB(0*fem, 2.5*fem, 0*fem, 2.5*fem),
                                 width: 89*fem,
                                 height: double.infinity,
@@ -310,7 +293,6 @@ class HelmetPage extends StatefulWidget {
                     height: 13*fem,
                   ),
                   Container(
-                    // autogroupeqac2me (DT2oi6nDuEbiosZtG2eQaC)
                     padding: EdgeInsets.fromLTRB(11*fem, 17*fem, 11*fem, 11.5*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -321,7 +303,6 @@ class HelmetPage extends StatefulWidget {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // unauthorizedweardetectedXyJ (7:115)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 44*fem, 17.5*fem),
                           child: Text(
                             'Unauthorized wear detected',
@@ -335,7 +316,6 @@ class HelmetPage extends StatefulWidget {
                           ),
                         ),
                         Container(
-                          // autogroupbwq2T6G (DT2oor7eUu3pkMntxaBwq2)
                           margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 15*fem, 0*fem),
                           width: double.infinity,
                           height: 39*fem,
@@ -343,7 +323,6 @@ class HelmetPage extends StatefulWidget {
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // date20xxxxxxtime20xxxxxxz6C (7:116)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 75*fem, 0*fem),
                                 constraints: BoxConstraints (
                                   maxWidth: 131*fem,
@@ -360,7 +339,6 @@ class HelmetPage extends StatefulWidget {
                                 ),
                               ),
                               Container(
-                                // autogrouptjfa5NY (DT2osgLbY1ME3MGuRbtJfa)
                                 margin: EdgeInsets.fromLTRB(0*fem, 2.5*fem, 0*fem, 2.5*fem),
                                 width: 89*fem,
                                 height: double.infinity,

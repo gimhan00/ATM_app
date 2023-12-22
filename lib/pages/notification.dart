@@ -56,14 +56,12 @@ class _NotificationPageState extends State<NotificationPage>{
       body: SingleChildScrollView(
       //width: double.infinity,
       child: Container(
-              // autogroupwnprdrY (DT2rN7Bwbi8vsEPeD6WNPr)
               padding: EdgeInsets.fromLTRB(11*fem, 12*fem, 12*fem, 311*fem),
               width: double.infinity,
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // autogroupdnuqmC4 (DT2qPYyqv8QQzuYcNeDNUQ)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 15*fem),
                     padding: EdgeInsets.fromLTRB(11*fem, 19*fem, 11*fem, 9.5*fem),
                     width: double.infinity,
@@ -75,7 +73,6 @@ class _NotificationPageState extends State<NotificationPage>{
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // unauthorizedweardetectedU6U (101:57)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 44*fem, 17.5*fem),
                           child: Text(
                             'Unauthorized wear detected',
@@ -89,7 +86,6 @@ class _NotificationPageState extends State<NotificationPage>{
                           ),
                         ),
                         Container(
-                          // autogroupavovNSk (DT2qWTwzUDU5FB1BzoaVov)
                           margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 15*fem, 0*fem),
                           width: double.infinity,
                           height: 39*fem,
@@ -97,7 +93,6 @@ class _NotificationPageState extends State<NotificationPage>{
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // date20xxxxxxtime20xxxxxx6Nk (101:58)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 75*fem, 0*fem),
                                 constraints: BoxConstraints (
                                   maxWidth: 131*fem,
@@ -114,7 +109,6 @@ class _NotificationPageState extends State<NotificationPage>{
                                 ),
                               ),
                               Container(
-                                // autogroupa4meb4c (DT2qa8WYxQY7MLbYckA4ME)
                                 margin: EdgeInsets.fromLTRB(0*fem, 2.5*fem, 0*fem, 2.5*fem),
                                 width: 89*fem,
                                 height: double.infinity,
@@ -145,7 +139,6 @@ class _NotificationPageState extends State<NotificationPage>{
                     ),
                   ),
                   Container(
-                    // autogroupnncprFS (DT2qi8HECTbeJyLsEynNcp)
                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 13*fem),
                     padding: EdgeInsets.fromLTRB(11*fem, 17*fem, 11*fem, 11.5*fem),
                     width: double.infinity,
@@ -157,7 +150,6 @@ class _NotificationPageState extends State<NotificationPage>{
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Container(
-                          // currencynoteswarningDVJ (101:67)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 17.5*fem),
                           child: Text(
                             'Currency Notes Warning',
@@ -171,7 +163,6 @@ class _NotificationPageState extends State<NotificationPage>{
                           ),
                         ),
                         Container(
-                          // autogroup7uckXVz (DT2qpHmdCR8ADXJ1ZF7uck)
                           margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 15*fem, 0*fem),
                           width: double.infinity,
                           height: 39*fem,
@@ -179,7 +170,6 @@ class _NotificationPageState extends State<NotificationPage>{
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // date20xxxxxxtime20xxxxxxT8k (101:68)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 75*fem, 0*fem),
                                 constraints: BoxConstraints (
                                   maxWidth: 131*fem,
@@ -196,7 +186,6 @@ class _NotificationPageState extends State<NotificationPage>{
                                 ),
                               ),
                               Container(
-                                // autogroupfsjgYR6 (DT2qt3ANy4osv6qC6jFsJg)
                                 margin: EdgeInsets.fromLTRB(0*fem, 2.5*fem, 0*fem, 2.5*fem),
                                 width: 89*fem,
                                 height: double.infinity,
@@ -207,7 +196,7 @@ class _NotificationPageState extends State<NotificationPage>{
                                 child: Center(
                                   child: GestureDetector(
                                     onTap: () {
-                                     Navigator.push(context, MaterialPageRoute(builder: (context) => DetailsPage()));
+                                     Navigator.push(context, MaterialPageRoute(builder: (context) => const DetailsPage()));
                                      },
                                     child: Text(
                                       'Details',
@@ -230,7 +219,6 @@ class _NotificationPageState extends State<NotificationPage>{
                     ),
                   ),
                   Container(
-                    // autogroupub4uDn8 (DT2r2sF13i2Eos2mxQUB4U)
                     padding: EdgeInsets.fromLTRB(11*fem, 17*fem, 11*fem, 11.5*fem),
                     width: double.infinity,
                     decoration: BoxDecoration (
@@ -241,7 +229,6 @@ class _NotificationPageState extends State<NotificationPage>{
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Container(
-                          // unauthorizedweardetectedwTE (101:62)
                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 44*fem, 17.5*fem),
                           child: Text(
                             'Unauthorized wear detected',
@@ -255,7 +242,6 @@ class _NotificationPageState extends State<NotificationPage>{
                           ),
                         ),
                         Container(
-                          // autogroupn7ipraC (DT2r8HFeVY1cNhUUxmn7ip)
                           margin: EdgeInsets.fromLTRB(5*fem, 0*fem, 15*fem, 0*fem),
                           width: double.infinity,
                           height: 39*fem,
@@ -263,7 +249,6 @@ class _NotificationPageState extends State<NotificationPage>{
                             crossAxisAlignment: CrossAxisAlignment.center,
                             children: [
                               Container(
-                                // date20xxxxxxtime20xxxxxxzAc (101:63)
                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 75*fem, 0*fem),
                                 constraints: BoxConstraints (
                                   maxWidth: 131*fem,
@@ -280,7 +265,6 @@ class _NotificationPageState extends State<NotificationPage>{
                                 ),
                               ),
                               Container(
-                                // autogroupbgrc6De (DT2rCH8z7ZYNrWr9GtbGrc)
                                 margin: EdgeInsets.fromLTRB(0*fem, 2.5*fem, 0*fem, 2.5*fem),
                                 width: 89*fem,
                                 height: double.infinity,

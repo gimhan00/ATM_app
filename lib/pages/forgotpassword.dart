@@ -65,7 +65,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
       body: SingleChildScrollView(
         //width: double.infinity,
       child: Container(
-        // forgotpasswordQFS (7:117)
         padding: EdgeInsets.fromLTRB(33*fem, 50*fem, 33*fem, 21.5*fem),
         width: double.infinity,
         decoration: const BoxDecoration (
@@ -81,7 +80,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
                   ),
                   const SizedBox(height: 10),
             Container(
-              // autogroupwtxlySx (DT2uTBiDiJrcWrk72wWTxL)
               margin: EdgeInsets.fromLTRB(93*fem, 0*fem, 93*fem, 18*fem),
               width: double.infinity,
               height: 40*fem,
@@ -105,7 +103,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
               ),
             ),
             Container(
-              // autogroupwcuv3xc (DT2uYmPFj45MGX5TtPwCuv)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 42*fem),
               padding: EdgeInsets.fromLTRB(1*fem, 11.5*fem, 1*fem, 10.5*fem),
               width: double.infinity,
@@ -125,7 +122,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
               ),
             ),
             Container(
-              // autogroupgkreYPa (DT2ue6ZhtRT3EwaLyDgkRe)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 16*fem),
               padding: EdgeInsets.fromLTRB(4*fem, 11.5*fem, 4*fem, 9.5*fem),
               width: double.infinity,
@@ -146,7 +142,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
               ),
             ),
             Container(
-              // autogroupqhbnpbz (DT2uigGQVfHaseZnk9Qhbn)
               margin: EdgeInsets.fromLTRB(89*fem, 0*fem, 97*fem, 15*fem),
               width: double.infinity,
               height: 40*fem,
@@ -170,7 +165,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
               ),
             ),
             Container(
-              // autogroupnftc6Jc (DT2unkywQ9S2wstGyonFtC)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 45*fem),
               padding: EdgeInsets.fromLTRB(4*fem, 13.5*fem, 4*fem, 8.5*fem),
               width: double.infinity,
@@ -190,7 +184,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
               ),
             ),
             Container(
-              // newpasswordBax (7:138)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 179*fem, 9*fem),
               child: Text(
                 'New Password',
@@ -211,7 +204,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
 
                  const SizedBox(height: 10),
             Container(
-              // conformpasswordqvQ (7:139)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 148*fem, 9*fem),
               child: Text(
                 'Conform Password',
@@ -232,7 +224,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
 
                   const SizedBox(height: 10),
             Container(
-              // autogroupidke6LY (DT2urvXfb6CAcX9b91iDKE)
               margin: EdgeInsets.fromLTRB(45*fem, 0*fem, 45*fem, 11.5*fem),
               width: double.infinity,
               height: 39*fem,
@@ -256,7 +247,6 @@ class _ForgotPasswordState extends State<ForgotPassword>{
               ),
             ),
             Center(
-              // loginMXN (101:3)
               child: Container(
                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 15*fem, 0*fem),
                 child: GestureDetector(

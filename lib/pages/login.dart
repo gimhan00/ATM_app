@@ -63,7 +63,6 @@ class _LoginPageState extends State<LoginPage> {
       body: SingleChildScrollView(
       //width: double.infinity,
       child: Container(
-        // loginvCY (1:4)
         width: double.infinity,
         decoration: const BoxDecoration(
           color: Color(0xffcfc8c8),
@@ -78,7 +77,6 @@ class _LoginPageState extends State<LoginPage> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Container(
-              // autogrouphbkwYdE (DT2iZqBYhyWB7TX3NZHBKW)
               padding:
                   EdgeInsets.fromLTRB(19 * fem, 48 * fem, 19 * fem, 33 * fem),
               width: double.infinity,
@@ -86,7 +84,6 @@ class _LoginPageState extends State<LoginPage> {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Container(
-                    // atmseis2HW (5:19)
                     margin: EdgeInsets.fromLTRB(
                         0 * fem, 0 * fem, 101 * fem, 30 * fem),
                     child: Text(
@@ -101,7 +98,6 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                   ),
                   Container(
-                    // usernamesZ2 (1:8)
                     margin: EdgeInsets.fromLTRB(
                         0 * fem, 0 * fem, 0 * fem, 15 * fem),
                     child: Text(
@@ -122,7 +118,6 @@ class _LoginPageState extends State<LoginPage> {
                   ),
                    const SizedBox(height: 20),
                   Container(
-                    // passwordTGL (1:9)
                     margin: EdgeInsets.fromLTRB(
                         0 * fem, 0 * fem, 0 * fem, 15 * fem),
                     child: Text(
@@ -147,7 +142,6 @@ class _LoginPageState extends State<LoginPage> {
                     onTap: signIn,
                     text: 'Login',
                   ),
-                 // const SizedBox(height: 20),
                       Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
@@ -177,7 +171,6 @@ class _LoginPageState extends State<LoginPage> {
               ),
             ),
             SizedBox(
-              // pngtreeaicamerascanningfacesof (5:18)
               width: 623 * fem,
               height: 360 * fem,
               child: ClipRRect(
